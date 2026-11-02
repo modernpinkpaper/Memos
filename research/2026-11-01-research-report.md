@@ -77,6 +77,15 @@ You remembered: health, faith/spiritual, fun/creative, purpose, and you added re
 | Fun / creative | 1 active project at a time, with a finish line | Animation, puzzles |
 | Purpose / work | 1 shippable thing per week | Dashboard v1 |
 
+**Faith: yes, it belongs.** Both frameworks leave room for it: the Wheel of Life lists "Spirituality", and PERMA's "Meaning" is often where faith fits. Your own memory of the video also included faith.
+- **Found (research on religion and wellbeing):** Regular religious service attendance is linked to better outcomes, including life satisfaction, meaning and purpose, social support, and lower mortality in some large studies. Most evidence is observational, so it shows a link, not proof of cause. Healthier people may attend more. Researchers also say it should not be "prescribed" for health; faith is about values.
+- The research suggests part of the benefit is **community and belonging**, which also covers your "friends" gap.
+- Faith can be as small or big as you choose. That is your choice.
+- Sources: [VanderWeele-style review, Eur J Epidemiol 2023](https://link.springer.com/doi/10.1007/s10654-023-00964-y), [Religion, spirituality and health (MJA)](https://www.mja.com.au/journal/2007/186/10/spirituality-religion-and-health-evidence-and-research-directions)
+
+**Combined model (PERMA + 8-area wheel, as you asked):** Use the wheel for the areas, and PERMA for the *feelings* to check inside each (pleasure, engagement, relationships, meaning, achievement). Weekly: rate the 8 areas 1-10, then ask "where do I feel meaning and engagement this week?"
+Areas: Health, Relationships/Friends, Family, Faith/Spirituality, Fun/Creative, Purpose/Work, Money, Home/Environment.
+
 **Draft routine (10 minutes, Sunday):** Rate each area 1–10. Pick the lowest one. Do one tiny thing for it this week. That is all.
 
 Sources:
@@ -121,7 +130,14 @@ Why it fits you: you said aimless exploring leads to "worthless" feelings, but y
 - Choose the equipment: bodyweight, bands, dumbbells, or a gym.
 - Since walking fixed your back, check with a doctor or physical therapist before heavy lifting if your back is a worry.
 
+**Update after your answers:** You only have a back extension machine, have decent time, no back limits, and find it boring, even with a routine. Boredom with repetition is the real problem, so:
+- **Found:** "Temptation bundling" (only getting a treat, like an audiobook, while exercising) increased gym visits in a Penn study. But the effect faded after a break, and I found no research on boredom or variety itself.
+- **Draft ideas:** Save a favorite show or audiobook for strength sessions only. Keep sessions very short (10-15 min) so you stop before you are bored. Vary the moves every 2 weeks (bands/dumbbells are cheap). Do one move at a time during something else, like TV (e.g., 3 sets of squats). Try a class or video once to see if company or a leader helps. Count reps like a game. Think "2 short sessions a week" not "a routine".
+- Your back extension machine works the lower back only; for the whole body you would want leg, push and pull moves too.
+- Honest note: some people never enjoy it. The goal is a small dose you can keep, not enjoyment.
+
 Sources:
+- [Temptation bundling (Penn)](https://chibe.upenn.edu/news/using-temptation-bundling-to-build-better-habits/)
 - [Minimal dose resistance exercise (Nuzzo)](https://jameslnuzzo.substack.com/p/minimal-dose-resistance-exercise)
 - [Resistance training minimum dose](https://sci-sport.com/en/resistance-training-minimum-dose-for-better-health-241/)
 - [Self-selected exercise and enjoyment (MDPI)](https://mdpi.com/1719136)
@@ -172,21 +188,20 @@ Sources:
 
 ## 8. DOT (the ads tool) — what I could NOT research
 
-I searched for a "DOT" AI tool from a Chattanooga TV company and found nothing. The nearest results were Amazon's own TV-buying AI tools and a third-party service called Trusted TV. I can't tell if any of those is what you mean. I also can't see the response DOT gave you, so I can't say whether the correction was a data update or an error.
+**Update:** You told me DOT is from ChatGPT, so my search for a Chattanooga TV tool was a wrong guess from voice-to-text. I have not re-researched it. I still can't see the response it gave you.
+
+Old note: I searched for a "DOT" AI tool from a Chattanooga TV company and found nothing. The nearest results were Amazon's own TV-buying AI tools and a third-party service called Trusted TV. I can't tell if any of those is what you mean. I also can't see the response DOT gave you, so I can't say whether the correction was a data update or an error.
 
 General lesson (My knowledge): ad data often changes for days after the fact (late conversions, attribution windows), so a recommendation can be corrected later without the first one being "wrong". A tool should say which. Ask DOT: *"For this recommendation, what data date range did you use, and what changed?"*
 
 ---
 
-## Questions for you (I did not want to guess)
+## Questions for you (updated 2 Nov)
 
-1. **DOT:** What exactly is it (company or product name)? Can you paste its full response about the correction?
-2. **"MT logs":** In the transcript it sometimes reads "empty logs". What does MT stand for, and where do they live (Google Sheet, database, other)?
-3. **Dashboard blocker:** Which tool or sheet should supply the project team's daily "what I worked on" data?
-4. **"Clark":** I read this as Claude (voice-to-text). Is that right, or is it a person?
-5. **Five areas:** Do you want to keep my 5 areas (health, relationships, faith, fun/creative, purpose/work), or swap in PERMA or the 8-area wheel?
-6. **Faith:** Do you want it as a life area, and in what form?
-7. **Strength training:** What equipment and time do you have, and any back or health limits? What exactly do you dislike (boredom, soreness, gym feel)?
-8. **Raises:** Do you want a rough model? If yes, I need roles, current hourly rates, hours per week, and rough revenue/margin. Share only what you are comfortable with.
-9. **Tracking:** Do you want a simple cycle/mood Google Sheet template built for you?
-10. **Files:** Is `transcripts/` plus `analysis/` and `research/` a good layout, or do you want a different one?
+Answered: DOT = ChatGPT; MT logs = Windows program that records computer activity on all work PCs and feeds the MPP Hub project team; "Clark" = Claude; use PERMA + 8-area wheel; include faith; back extension machine only.
+
+Still open:
+1. **DOT:** What is the full text of the correction message? (Which ChatGPT chat or custom GPT is it?)
+2. **Dashboard:** Is the MT logs data already reaching the Hub each day, or is that the missing step?
+3. **Raises:** You will get back to me.
+4. **Repo purpose:** What do you want to use this repo for? (see chat)
